@@ -5,9 +5,14 @@
     "link": "https://blog.snas.club/"
   },
   {
-    "icon": "AI",
+    "icon": "compass",
     "name": "实验室",
     "link": "https://ai.snas.club/"
+  },
+  {
+    "icon": "music",
+    "name": "音乐",
+    "link": "https://music.snas.club/"
   },
   {
     "icon": "Cloud",
