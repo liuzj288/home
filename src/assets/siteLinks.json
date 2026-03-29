@@ -1,18 +1,13 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.snas.club/"
-  },
-  {
     "icon": "Compass",
     "name": "实验室",
     "link": "https://ai.snas.club/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.snas.club/"
+    "icon": "Book",
+    "name": "书库",
+    "link": "https://calibre.snas.club/"
   },
   {
     "icon": "Cloud",
@@ -20,9 +15,14 @@
     "link": "https://alist.snas.club/"
   },
   {
-    "icon": "Book",
-    "name": "书库",
-    "link": "https://calibre.snas.club/"
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://blog.snas.club/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.snas.club/"
   },
   {
     "icon": "LaptopCode",
